@@ -1,0 +1,110 @@
+h1 {
+    text-align: center;
+    color: rgb(244, 242, 248);
+    font-family:'Courier New', Courier, monospace;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 20%, rgba(10,1,24,0.6615021008403361) 34%);
+}
+
+h2 
+{color: rgb(14, 13, 13);
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.information
+{
+    text-align:center;
+}
+
+body 
+{
+    background: linear-gradient(90deg, rgba(255,255,255,1) 6%, rgba(94,0,255,0.6615021008403361) 66%);
+}
+
+ul {
+    color:rgb(238, 231, 231);
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    list-style: none;
+}
+
+.logohtml {
+    display: flex;
+    justify-content: center;
+}
+
+
+footer
+{ 
+    background-color: white;
+}
+
+.liengit 
+{   
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color:blueviolet;
+    text-decoration: none;
+}
+
+.liencv 
+    {   
+        font-family: "Kode Mono", monospace;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        color:blueviolet;
+        text-decoration: none;
+        }
+
+    #trait1 { 
+    border-bottom: 2px solid white;
+    width: 500px;
+    margin-left: 35%;
+   }
+
+   #trait2
+   { border-bottom: 2px solid white;
+    width: 500px;
+    margin-left: 35%;
+}
+
+#trait3 {
+    border-bottom: 2px solid white;
+    width: 500px;
+    margin-left: 35%;
+}
+
+#trait4 {
+    border-bottom: 2px solid white;
+    width: 500px;
+    margin-left: 35%;
+}
+
+.logoplat {
+    display: flex;
+    justify-content: center;
+}
+
+a,
+.contact {
+    color:rgb(238, 231, 231);
+    text-align: right;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    list-style: none;
+}
+
+
+
